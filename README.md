@@ -41,7 +41,7 @@
 
 ## 📬 Open to Work
 - **Roles:** Data Science Intern · ML Engineer Intern · AI Engineer · SDE (ML focus)
-- **Mode:** Remote · On-site (Delhi NCR)
+- **Mode:** Remote · On-site
 - **Contact:** mayanksingh2745@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh2745)
