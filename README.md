@@ -16,7 +16,7 @@
 | Project | Stack | What it does |
 |---|---|---|
 | **DocuMind** | LangChain · FAISS · Streamlit | RAG-based document Q&A system |
-| **SentimentLM** | Mistral-7B · QLoRA · HuggingFace | LLM fine-tuning on sentiment tasks |
+| **[TechTutor](https://github.com/mayanksingh2745/TechTutor-Domain-Specific-LLM-Fine-Tuning-LoRA)** | Mistral-7B · LoRA · HuggingFace | Domain-specific LLM fine-tuning for tech education |
 | **ValueTrack** | XGBoost · SQL · Python | Customer Lifetime Value prediction pipeline |
 | **Burnout Predictor** | Ensemble ML · FastAPI | Burnout risk scoring with REST API |
 
