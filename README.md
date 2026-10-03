@@ -1,59 +1,67 @@
-# 👋 Hey, I'm Mayank Singh
+<div align="center">
 
-**AI/ML Engineer** · Actively seeking internships & full-time roles in Data Science · ML · AI Engineering
+<!-- 🎬 HERO — Viewfinder HUD + Animated Gradient Name + Cycling Roles -->
+<img src="./hero.svg?v=1" alt="Mayank Singh — AI/ML Engineer" width="100%"/>
 
----
+<br/><br/>
 
-## 💡 What I Bring
-- End-to-end ML pipeline development — EDA → modeling → deployment
-- Hands-on with **LLMs, RAG architectures, and fine-tuning** (Mistral-7B, QLoRA)
-- Strong foundation in **Python, SQL, and the full DS stack**
-- Ship real projects, not just notebooks
+<!-- 🧠 DUAL CARDS: AI Systems & Architecture • Project Carousel & Telemetry -->
+<img src="./about-life.svg?v=1" alt="Capabilities and Engineering Pillars" width="100%"/>
 
----
+<br/><br/>
 
-## 🚀 Projects
-| Project | Stack | What it does |
-|---|---|---|
-| **DocuMind** | LangChain · FAISS · Streamlit | RAG-based document Q&A system |
-| **[TechTutor](https://github.com/mayanksingh2745/TechTutor-Domain-Specific-LLM-Fine-Tuning-LoRA)** | Mistral-7B · LoRA · HuggingFace | Domain-specific LLM fine-tuning for tech education |
-| **ValueTrack** | XGBoost · SQL · Python | Customer Lifetime Value prediction pipeline |
-| **Burnout Predictor** | Ensemble ML · FastAPI | Burnout risk scoring with REST API |
+<!-- ⚛️ TECH STACK — Orbiting Systems & Sequential Glowing Chips -->
+<img src="./stack.svg?v=1" alt="Tech Stack and Architecture" width="100%"/>
 
----
+<br/><br/>
 
-## 🛠️ Tech Stack
+<!-- 🪪 DEVELOPER ID BADGE + ANALYTICS DASHBOARD -->
+<img src="./id-dashboard.svg?v=1" alt="Developer ID and Analytics Dashboard" width="100%"/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br/><br/>
 
----
+</div>
 
-## 📬 Open to Work
-- **Roles:** Data Science Intern · ML Engineer Intern · AI Engineer · SDE (ML focus)
-- **Mode:** Remote · On-site
-- **Contact:** mayanksingh2745@gmail.com
+## ⚡ Featured Engineering Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh2745)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayanksingh.275)
+| Project | Architecture &amp; Focus | Core Stack | Status |
+|:---|:---|:---|:---:|
+| [**Tollgate**](https://github.com/mayanksingh2745/Tollgate-a-multi-tenant-LLM-gateway-with-budgets-semantic-caching-and-cost-quality-routing) | Multi-tenant LLM gateway with strict token budgets, vector semantic caching (14ms hit), and intelligent cost-quality model routing | `Python` `FastAPI` `Redis` `PostgreSQL` `Docker` | 🟢 Active |
+| [**SQLForge**](https://github.com/mayanksingh2745/SQLForge-a-controlled-study-of-what-fine-tuning-buys-on-text-to-SQL) | Rigorous empirical benchmark measuring execution accuracy, schema adaptation, and cost trade-offs of parameter-efficient fine-tuning on Text-to-SQL | `PyTorch` `LoRA / QLoRA` `Transformers` `vLLM` | 🔬 Research |
+| [**Digital Twin for Predictive Maintenance**](https://github.com/mayanksingh2745/ValueTrack-Customer-Lifetime-Value-Predictor) | Industrial time-series forecasting engine with stacked LSTMs and 3D tensor windowing on 10-year streaming telemetry for predictive anomaly detection | `Python` `Stacked LSTM` `Scikit-learn` `Streamlit` | ⚙️ Deployed |
+| [**TechTutor**](https://github.com/mayanksingh2745/TechTutor-Domain-Specific-LLM-Fine-Tuning-LoRA) | Domain-specific LLM fine-tuning of Mistral-7B leveraging LoRA/QLoRA for high-accuracy technical education and machine learning comprehension | `Mistral-7B` `LoRA` `PEFT` `HuggingFace` | 🚀 Released |
+| [**DocuMind**](https://github.com/mayanksingh2745/DocuMind-RAG-Powered-Document-Q-A-System) | End-to-end Retrieval-Augmented Generation (RAG) system with semantic chunking, FAISS vector indexing, and grounded multi-format document Q&amp;A | `LangChain` `FAISS` `FastAPI` `Python` | 🚀 Released |
+| [**Project Velocity**](https://github.com/mayanksingh2745/Project-Velocity-Automotive-Sales-Market-Intelligence-Platform) | End-to-end automotive market intelligence platform forecasting performance and demand using ensemble machine learning | `Python` `Ensemble ML` `Pandas` `SQL` | 🚀 Released |
 
----
+<br/>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mayank-singh2745&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mayank-singh2745&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-singh2745&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
----
+## 🌃 3D Contribution City
 
-[![](https://visitcount.itsvg.in/api?id=mayank-singh2745&icon=0&color=0)](https://visitcount.itsvg.in)
+*Every commit builds another tower — rebuilt automatically every day.*
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
+<br/><br/>
+
+<!-- 💌 LET'S CONNECT -->
+<img src="./connect.svg?v=1" alt="Let's connect — Mayank Singh" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/mayanksingh2745"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mayank-singh2745/"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:mayanksingh2745@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mayanksingh2745&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+**Engineering practical intelligence. Always learning, always building.** ⚡
+
+</div>
