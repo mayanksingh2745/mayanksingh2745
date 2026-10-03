@@ -152,16 +152,31 @@ text { font-family: 'JBM', ui-monospace, Menlo, Consolas, monospace; }
   </g>
 
   <!-- LEFT COPY -->
-  <!-- Pill badge: OPEN TO COLLABS -->
-  <g class="fu" style="animation-delay:.2s">
-    <rect x="64" y="64" width="236" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/>
-    <circle cx="84" cy="80" r="4.5" fill="#34d399"/>
-    <circle cx="84" cy="80" r="4" fill="none" stroke="#34d399" stroke-width="1.5">
-      <animate attributeName="r" values="4;11" dur="1.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".9;0" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <text class="jbb" x="98" y="85" font-size="12" fill="#34d399" letter-spacing="1.6">OPEN TO COLLABS</text>
-  </g>
+  <!-- Pill badge: OPEN TO COLLABS & PORTFOLIO LINK -->
+  <a href="https://mayank-portfolio-xi-wheat.vercel.app/" target="_blank" style="cursor: pointer;">
+    <g class="fu" style="animation-delay:.2s">
+      <rect x="64" y="64" width="220" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/>
+      <circle cx="84" cy="80" r="4.5" fill="#34d399"/>
+      <circle cx="84" cy="80" r="4" fill="none" stroke="#34d399" stroke-width="1.5">
+        <animate attributeName="r" values="4;11" dur="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".9;0" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text class="jbb" x="98" y="85" font-size="12" fill="#34d399" letter-spacing="1.6">OPEN TO COLLABS</text>
+    </g>
+  </a>
+
+  <!-- Portfolio Website Link Pill -->
+  <a href="https://mayank-portfolio-xi-wheat.vercel.app/" target="_blank" style="cursor: pointer;">
+    <g class="fu" style="animation-delay:.3s">
+      <rect x="296" y="64" width="180" height="32" rx="16" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".4"/>
+      <g transform="translate(312, 72) scale(0.7)">
+        <circle cx="12" cy="12" r="10" fill="none" stroke="#22d3ee" stroke-width="2"/>
+        <ellipse cx="12" cy="12" rx="4.5" ry="10" fill="none" stroke="#22d3ee" stroke-width="1.8"/>
+        <line x1="2" y1="12" x2="22" y2="12" stroke="#22d3ee" stroke-width="1.8"/>
+      </g>
+      <text class="jbb" x="336" y="84" font-size="11.5" fill="#22d3ee" letter-spacing="1.2">PORTFOLIO &#8599;</text>
+    </g>
+  </a>
 
   <!-- Pre-title -->
   <text clip-path="url(#hiClip)" class="sgm" x="64" y="164" font-size="30" fill="#eceef6">Hi there, I&apos;m</text>
